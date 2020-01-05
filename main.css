@@ -1,0 +1,97 @@
+div.lo{
+    margin-left:1px;
+}
+div .po
+{
+    margin-right:0px;
+}
+div.bg1{
+    background-color: rgb(165, 215, 235);
+}
+hr.new2 {
+    border-top: 1px dashed red;
+  }
+body{
+    color:#00303f;
+}
+.login-form{
+    margin-top: 6%;
+    margin-bottom: 5%;
+    margin-left: -121px;
+    margin-right: -130px;
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    background: #DEEDF9;
+}
+
+.subbtn{
+    width: 40%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+    
+}
+.custnav{
+    background-color: #DEEDF9;
+    color:#00303f;
+}
+.custnav > a{
+    color:#00303f;
+}
+
+@media (min-width:480px){
+    .loginimg{
+        top: 17%;
+        position: absolute;
+        margin-left: 38%;
+    }
+}
+
+
+@media (min-width:700px){
+    .loginimg{
+        top: 11%;
+        position: absolute;
+        margin-left: 38%;
+    }
+}
+
+
+@media (min-width:350px){
+    .loginimg{
+        top: 11%;
+        position: absolute;
+        margin-left: 36%;
+    }
+}
+
+@media (min-width:1000px){
+    .loginimg{
+        top: 2%;
+        position: absolute;
+        margin-left: 60%;
+    }
+}
+
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 7.25rem;
+}
+.comments-container {
+    margin: 60px auto 15px;
+    margin-left: 1px;
+    width: 768px;
+}
+
+.comments-list .comment-box {
+    width: 680px;
+    float: right;
+    margin-right: 33px;
+    position: relative;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+}
